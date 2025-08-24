@@ -277,7 +277,10 @@
 
     // Load settings
     [self loadSettings];
-
+    // Debug: log the raw preference type/value for diagnostics of launch crashes
+    id __cdv_debug_mediaPref = [self.settings cordovaSettingForKey:@"MediaTypesRequiringUserActionForPlayback"];
+    NSLog(@"[CDVViewController] MediaTypesRequiringUserActionForPlayback type=%@ value=%@", NSStringFromClass([__cdv_debug_mediaPref class]), __cdv_debug_mediaPref);
+    
     NSString* backupWebStorageType = @"cloud"; // default value
 
     id backupWebStorage = [self.settings cordovaSettingForKey:@"BackupWebStorage"];

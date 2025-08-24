@@ -1,4 +1,0 @@
-module CocoaLumberjack {
-umbrella "/Users/obedsayyad/teachgate-macos-app/build/SourcePackages/checkouts/CocoaLumberjack/Sources/CocoaLumberjack/include"
-export *
-}

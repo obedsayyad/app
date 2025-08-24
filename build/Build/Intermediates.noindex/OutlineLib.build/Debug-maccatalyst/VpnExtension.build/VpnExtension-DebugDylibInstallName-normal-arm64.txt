@@ -1,1 +1,0 @@
-@rpath/VpnExtension.debug.dylib

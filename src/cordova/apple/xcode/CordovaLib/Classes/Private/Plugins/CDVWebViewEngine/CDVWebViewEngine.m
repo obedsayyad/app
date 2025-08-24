@@ -97,16 +97,30 @@
 
     // targetMediaType will always exist, either from user's "config.xml" or default ("defaults.xml").
     id targetMediaType = [settings cordovaSettingForKey:@"MediaTypesRequiringUserActionForPlayback"];
-    if ([targetMediaType isEqualToString:@"none"]) {
+    NSLog(@"[CDVWebViewEngine] MediaTypesRequiringUserActionForPlayback raw type=%@ value=%@", NSStringFromClass([targetMediaType class]), targetMediaType);
+    // Be defensive about unexpected types to avoid crashes on launch.
+    NSString* targetMediaTypeString = nil;
+    if ([targetMediaType isKindOfClass:[NSString class]]) {
+        targetMediaTypeString = (NSString*)targetMediaType;
+    } else if ([targetMediaType isKindOfClass:[NSNumber class]]) {
+        // Historical configs used boolean-like values; coerce to an enum.
+        targetMediaTypeString = ([(NSNumber*)targetMediaType boolValue] ? @"all" : @"none");
+    } else if (targetMediaType != nil) {
+        // Unknown type (e.g., NSDictionary). Default safely.
+        targetMediaTypeString = @"all";
+    }
+    NSLog(@"[CDVWebViewEngine] MediaTypesRequiringUserActionForPlayback normalized=%@", targetMediaTypeString ?: @"<nil>");
+    if ([targetMediaTypeString isEqualToString:@"none"]) {
         mediaType = WKAudiovisualMediaTypeNone;
-    } else if ([targetMediaType isEqualToString:@"audio"]) {
+    } else if ([targetMediaTypeString isEqualToString:@"audio"]) {
         mediaType = WKAudiovisualMediaTypeAudio;
-    } else if ([targetMediaType isEqualToString:@"video"]) {
+    } else if ([targetMediaTypeString isEqualToString:@"video"]) {
         mediaType = WKAudiovisualMediaTypeVideo;
-    } else if ([targetMediaType isEqualToString:@"all"]) {
+    } else if ([targetMediaTypeString isEqualToString:@"all"] || targetMediaTypeString == nil) {
         mediaType = WKAudiovisualMediaTypeAll;
     } else {
-        NSLog(@"Invalid \"MediaTypesRequiringUserActionForPlayback\" was detected. Fallback to default value of \"all\" types.");
+        NSLog(@"Invalid \"MediaTypesRequiringUserActionForPlayback\" was detected. Fallback to default value of \"all\" types. Got type=%@ value=%@", NSStringFromClass([targetMediaType class]), targetMediaType);
+        mediaType = WKAudiovisualMediaTypeAll;
     }
     configuration.mediaTypesRequiringUserActionForPlayback = mediaType;
 

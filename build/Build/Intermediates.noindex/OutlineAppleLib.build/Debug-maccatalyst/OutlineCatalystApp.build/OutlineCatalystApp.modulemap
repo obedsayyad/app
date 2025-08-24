@@ -1,4 +1,0 @@
-module OutlineCatalystApp {
-header "OutlineCatalystApp-Swift.h"
-export *
-}

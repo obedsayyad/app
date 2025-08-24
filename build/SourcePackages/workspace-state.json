@@ -23,22 +23,6 @@
           "location" : "https://github.com/getsentry/sentry-cocoa",
           "name" : "Sentry"
         },
-        "path" : "/Users/obedsayyad/teachgate-macos-app/build/SourcePackages/artifacts/sentry-cocoa/Sentry-Dynamic/Sentry-Dynamic.xcframework",
-        "source" : {
-          "checksum" : "bc672aac87e5f54d0744b95ddad62b5b3bf77329deea588a2c90c4aa52cad33f",
-          "type" : "remote",
-          "url" : "https://github.com/getsentry/sentry-cocoa/releases/download/8.55.0/Sentry-Dynamic.xcframework.zip"
-        },
-        "targetName" : "Sentry-Dynamic"
-      },
-      {
-        "kind" : "xcframework",
-        "packageRef" : {
-          "identity" : "sentry-cocoa",
-          "kind" : "remoteSourceControl",
-          "location" : "https://github.com/getsentry/sentry-cocoa",
-          "name" : "Sentry"
-        },
         "path" : "/Users/obedsayyad/teachgate-macos-app/build/SourcePackages/artifacts/sentry-cocoa/Sentry/Sentry.xcframework",
         "source" : {
           "checksum" : "7467d496eda792a62c59e467aa1c94e0c093cfbedd35cb331c6fba3b8247cca3",
@@ -62,6 +46,22 @@
           "url" : "https://github.com/getsentry/sentry-cocoa/releases/download/8.55.0/Sentry-Dynamic-WithARM64e.xcframework.zip"
         },
         "targetName" : "Sentry-Dynamic-WithARM64e"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "sentry-cocoa",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/getsentry/sentry-cocoa",
+          "name" : "Sentry"
+        },
+        "path" : "/Users/obedsayyad/teachgate-macos-app/build/SourcePackages/artifacts/sentry-cocoa/Sentry-Dynamic/Sentry-Dynamic.xcframework",
+        "source" : {
+          "checksum" : "bc672aac87e5f54d0744b95ddad62b5b3bf77329deea588a2c90c4aa52cad33f",
+          "type" : "remote",
+          "url" : "https://github.com/getsentry/sentry-cocoa/releases/download/8.55.0/Sentry-Dynamic.xcframework.zip"
+        },
+        "targetName" : "Sentry-Dynamic"
       }
     ],
     "dependencies" : [

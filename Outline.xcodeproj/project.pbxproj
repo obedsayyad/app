@@ -16,6 +16,8 @@
 		301BF552109A68D80062928A /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF535109A57CC0062928A /* libCordova.a */; };
 		302D95F114D2391D003F00A1 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 302D95EF14D2391D003F00A1 /* MainViewController.m */; };
 		302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 302D95F014D2391D003F00A1 /* MainViewController.xib */; };
+		382DEF4C2E5BA80200CA6078 /* Tun2socks.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 382DEF4B2E5BA80200CA6078 /* Tun2socks.xcframework */; };
+		382DEF4D2E5BA80200CA6078 /* Tun2socks.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 382DEF4B2E5BA80200CA6078 /* Tun2socks.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		5260B05F2C4F0A4E00CDF289 /* VpnExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 5260B05C2C4F09FB00CDF289 /* VpnExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		52CE53E7295B6A310064D03D /* Sentry in Frameworks */ = {isa = PBXBuildFile; productRef = 52CE53E6295B6A310064D03D /* Sentry */; };
 		5F7F90AE0E924FD7B065C415 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 0394302BA6114B2AB648D4FF /* CDVStatusBar.m */; };
@@ -106,6 +108,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				382DEF4D2E5BA80200CA6078 /* Tun2socks.xcframework in Embed Frameworks */,
 				A246B7E52B07AADD00ECACD5 /* AppKitIntegration.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
@@ -142,6 +145,7 @@
 		3047A5101AB8059700498E2A /* build-release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "build-release.xcconfig"; path = "cordova/build-release.xcconfig"; sourceTree = SOURCE_ROOT; };
 		3047A5111AB8059700498E2A /* build.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = build.xcconfig; path = cordova/build.xcconfig; sourceTree = SOURCE_ROOT; };
 		32CA4F630368D1EE00C91783 /* Outline-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Outline-Prefix.pch"; sourceTree = "<group>"; };
+		382DEF4B2E5BA80200CA6078 /* Tun2socks.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = Tun2socks.xcframework; path = src/cordova/apple/OutlineAppleLib/Tun2socks.xcframework; sourceTree = "<group>"; };
 		3B0347431F212E6500C8EF1F /* Outline.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = Outline.entitlements; path = Outline/Outline.entitlements; sourceTree = "<group>"; };
 		5260B0572C4F09FB00CDF289 /* OutlineLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OutlineLib.xcodeproj; path = OutlineLib/OutlineLib.xcodeproj; sourceTree = "<group>"; };
 		65A9AC9B2BEC091700C5899F /* src/cordova/apple/xcode/Outline/Resources/PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = src/cordova/apple/xcode/Outline/Resources/PrivacyInfo.xcprivacy; sourceTree = SOURCE_ROOT; };
@@ -237,6 +241,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				382DEF4C2E5BA80200CA6078 /* Tun2socks.xcframework in Frameworks */,
 				A27B36512B07C51500004A08 /* CocoaLumberjack in Frameworks */,
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
 				FC8C310C1FAA88FB004262BE /* NetworkExtension.framework in Frameworks */,
@@ -322,6 +327,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				382DEF4B2E5BA80200CA6078 /* Tun2socks.xcframework */,
 				FC8C310A1FAA814A004262BE /* NetworkExtension.framework */,
 				941052A220F54953928FF2E2 /* libz.tbd */,
 			);
@@ -835,6 +841,10 @@
 				"IPHONEOS_DEPLOYMENT_TARGET[sdk=macosx*]" = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.teachgate.vpn.ios;
 				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = com.teachgate.vpn.macos;
 				PRODUCT_NAME = Outline;
@@ -892,6 +902,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.teachgate.vpn.ios;
 				"PRODUCT_BUNDLE_IDENTIFIER[sdk=macosx*]" = com.teachgate.vpn.macos;
 				PRODUCT_NAME = Outline;
@@ -924,7 +938,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
@@ -991,7 +1005,7 @@
 				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;

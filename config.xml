@@ -11,6 +11,8 @@
     
     <!-- Global Preferences -->
     <preference name="ShowSplashScreenSpinner" value="false" />
+    <!-- Explicitly set media type preference as a string to avoid type mismatches in CDVWebViewEngine -->
+    <preference name="MediaTypesRequiringUserActionForPlayback" value="all" />
     
     <!-- macOS Configuration -->
     <platform name="osx">

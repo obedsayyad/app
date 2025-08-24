@@ -1,4 +1,0 @@
-module OutlineSentryLogger {
-header "OutlineSentryLogger-Swift.h"
-export *
-}

@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>2A5D40CC-123F-4143-8940-3EBB0D3156A5</key>
+		<key>21176E11-52F2-456F-8035-CEAFBF048220</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2A5D40CC-123F-4143-8940-3EBB0D3156A5.xcactivitylog</string>
+			<string>21176E11-52F2-456F-8035-CEAFBF048220.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,15 +40,15 @@
 			<key>signature</key>
 			<string>Cleaning project Outline with scheme TeachGate VPN and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>777756376.91581798</real>
+			<real>777760288.368644</real>
 			<key>timeStoppedRecording</key>
-			<real>777756378.23302698</real>
+			<real>777760289.05473602</real>
 			<key>title</key>
 			<string>Cleaning project Outline with scheme TeachGate VPN and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>2A5D40CC-123F-4143-8940-3EBB0D3156A5</string>
+			<string>21176E11-52F2-456F-8035-CEAFBF048220</string>
 		</dict>
-		<key>3B01608B-33FC-473A-8C2D-80A41D4FFC43</key>
+		<key>683254B8-AF73-4608-94C3-773D829BDA59</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -57,7 +57,49 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3B01608B-33FC-473A-8C2D-80A41D4FFC43.xcactivitylog</string>
+			<string>683254B8-AF73-4608-94C3-773D829BDA59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Outline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TeachGate VPN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project Outline with scheme TeachGate VPN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>777758769.19270599</real>
+			<key>timeStoppedRecording</key>
+			<real>777758770.67936206</real>
+			<key>title</key>
+			<string>Cleaning project Outline with scheme TeachGate VPN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>683254B8-AF73-4608-94C3-773D829BDA59</string>
+		</dict>
+		<key>A931B179-D6F8-4D84-ACEA-BD5521833B11</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A931B179-D6F8-4D84-ACEA-BD5521833B11.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -67,11 +109,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
+				<integer>3</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>2</integer>
+				<integer>47</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>Outline project</string>
@@ -82,13 +124,13 @@
 			<key>signature</key>
 			<string>Building project Outline with scheme TeachGate VPN and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>777756299.05610597</real>
+			<real>777760289.06604898</real>
 			<key>timeStoppedRecording</key>
-			<real>777756329.15017796</real>
+			<real>777760367.85487401</real>
 			<key>title</key>
 			<string>Building project Outline with scheme TeachGate VPN and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>3B01608B-33FC-473A-8C2D-80A41D4FFC43</string>
+			<string>A931B179-D6F8-4D84-ACEA-BD5521833B11</string>
 		</dict>
 	</dict>
 </dict>
