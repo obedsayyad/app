@@ -87,7 +87,6 @@ export function parseAccessKey(url: string): {
 
     // Extract base64 encoded part
     const encodedPart = urlObj.href.replace("ss://", "").split("#")[0];
-    const decoded = atob(encodedPart);
 
     return {
       valid: true,

@@ -1,9 +1,13 @@
+// Vite configuration tuned for Cordova/WKWebView (file://) loading.
+// Important: base: "./" ensures built asset URLs are relative, so WKWebView
+// can load /www/index.html and resolve ./assets/... correctly.
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import { resolve } from "path";
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "./",
   plugins: [react()],
 
   // Development server configuration

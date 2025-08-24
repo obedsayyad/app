@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 import { authService } from "../services/auth";
-import type { User, AuthState, LoginRequest, LoginFormErrors } from "../types";
+import type { AuthState, LoginRequest, LoginFormErrors } from "../types";
 
 /**
  * Custom hook for authentication management

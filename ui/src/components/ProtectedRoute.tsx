@@ -11,7 +11,7 @@ interface ProtectedRouteProps {
  * Redirects to login if user is not authenticated
  */
 const ProtectedRoute: React.FC<ProtectedRouteProps> = ({ children }) => {
-  const { isAuthenticated, isLoading, shouldRedirect } = useRequireAuth();
+  const { isLoading, shouldRedirect } = useRequireAuth();
   const location = useLocation();
 
   // Show loading while checking authentication

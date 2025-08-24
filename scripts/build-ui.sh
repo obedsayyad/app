@@ -41,6 +41,13 @@ if [ ! -f "www/index.html" ]; then
     exit 1
 fi
 
+# Post-process: remove crossorigin attributes which can break file:// loading in Chrome
+# (WKWebView is fine, but this keeps local verification consistent)
+if [ -f "www/index.html" ]; then
+    # macOS sed in-place edit (empty backup extension)
+    sed -i '' -e 's/ crossorigin//g' www/index.html
+fi
+
 echo "✅ UI build complete!"
 echo "📁 Build output is in: www/"
 echo ""

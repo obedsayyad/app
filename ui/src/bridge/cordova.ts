@@ -290,3 +290,20 @@ const mockBridge: CordovaBridgeApi = {
   if (w.CordovaBridge) return; // Do not override if already present
   w.CordovaBridge = isCordovaEnv() ? nativeBridge : mockBridge;
 })();
+
+// If Cordova becomes available later (deviceready), switch to native bridge.
+if (typeof window !== "undefined") {
+  document.addEventListener(
+    "deviceready",
+    () => {
+      try {
+        const w = window as any;
+        w.CordovaBridge = nativeBridge;
+        console.log("Cordova deviceready: switched to native bridge");
+      } catch {
+        // ignore
+      }
+    },
+    false
+  );
+}

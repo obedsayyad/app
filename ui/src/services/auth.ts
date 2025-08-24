@@ -1,9 +1,4 @@
-import type {
-  LoginRequest,
-  LoginResponse,
-  AuthApiResponse,
-  User,
-} from "../types";
+import type { LoginRequest, LoginResponse, User } from "../types";
 
 // API Configuration
 const API_BASE_URL = "https://b-stg.cx-tg.develentcorp.com/api";
