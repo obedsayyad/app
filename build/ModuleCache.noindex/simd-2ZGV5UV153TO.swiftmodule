@@ -1,0 +1,64 @@
+---
+path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/15.5/simd.swiftmodule/arm64e-apple-ios-macabi.swiftmodule'
+dependencies:
+  - mtime:           1746401358000000000
+    path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/15.5/simd.swiftmodule/arm64e-apple-ios-macabi.swiftmodule'
+    size:            993740
+  - mtime:           1745034241000000000
+    path:            'System/iOSSupport/usr/lib/swift/Swift.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            1929979
+    sdk_relative:    true
+  - mtime:           1745035158000000000
+    path:            'usr/include/_time.apinotes'
+    size:            1132
+    sdk_relative:    true
+  - mtime:           1745035392000000000
+    path:            'usr/lib/swift/_errno.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            3851
+    sdk_relative:    true
+  - mtime:           1745035397000000000
+    path:            'usr/lib/swift/_time.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            1026
+    sdk_relative:    true
+  - mtime:           1745035419000000000
+    path:            'usr/lib/swift/_signal.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            1062
+    sdk_relative:    true
+  - mtime:           1745035418000000000
+    path:            'usr/lib/swift/sys_time.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            1063
+    sdk_relative:    true
+  - mtime:           1745035413000000000
+    path:            'usr/lib/swift/_stdio.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            1474
+    sdk_relative:    true
+  - mtime:           1745035426000000000
+    path:            'usr/lib/swift/unistd.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            814
+    sdk_relative:    true
+  - mtime:           1745035392000000000
+    path:            'usr/lib/swift/_math.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            15245
+    sdk_relative:    true
+  - mtime:           1745034438000000000
+    path:            'System/iOSSupport/usr/lib/swift/_Builtin_float.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            4222
+    sdk_relative:    true
+  - mtime:           1745035442000000000
+    path:            'usr/lib/swift/Darwin.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            18216
+    sdk_relative:    true
+  - mtime:           1745035853000000000
+    path:            'System/iOSSupport/usr/lib/swift/_Concurrency.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            230591
+    sdk_relative:    true
+  - mtime:           1745035974000000000
+    path:            'System/iOSSupport/usr/lib/swift/_StringProcessing.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            22868
+    sdk_relative:    true
+  - mtime:           1745036615000000000
+    path:            'usr/lib/swift/simd.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            229466
+    sdk_relative:    true
+version:         1
+...

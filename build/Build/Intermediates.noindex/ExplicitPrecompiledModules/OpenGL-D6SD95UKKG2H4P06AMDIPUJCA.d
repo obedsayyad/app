@@ -1,0 +1,32 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/SDKSettings.json \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGLAvailability.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/os_availability.modulemap \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/os_availability_internal-2S65KSBB0MLFKOQDRLCZJ4S7E.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/os_availability-EFCKRJ3M1OAL6PLIXN07A3YDH.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLCurrent.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLTypes.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLDevice.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gltypes.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/ptrcheck-665BE8KF2CDMIBPEQXR6TTTY7.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stddef-9URC4QGSPJVSOCRN99HGWVWCF.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdarg-3Y9TFL1P5TNR5AVBUA4QADJWR.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/DarwinFoundation-QRHCE9DU3ENJSU85QP895POO.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_stdint-76XZ22ALKUXDV9JDN0X1ASV8M.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdint-9F1F8V9OJO4QL32JZ2ZHNSS10.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLRenderers.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLIOSurface.h \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/TargetConditionals-56X93JOGGUBPFLRVTIOOCDRJR.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/AvailabilityMacros-5OHTAEU7GEO9X9N3O3OKVHQNN.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl3.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl3ext.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glext.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gluContext.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLContext.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gliContext.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gliDispatch.h

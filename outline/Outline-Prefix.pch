@@ -1,0 +1,7 @@
+// Prefix header for the Outline target.
+// This file exists to satisfy GCC_PREFIX_HEADER in the Xcode project and is intentionally minimal.
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif

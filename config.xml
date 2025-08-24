@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.teachgate.vpn" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>TeachGate VPN</name>
+    <description>
+        Secure VPN for TeachGate macOS users
+    </description>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    
+    <!-- Global Preferences -->
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    
+    <!-- macOS Configuration -->
+    <platform name="osx">
+        <preference name="HideMousePointer" value="false" />
+        <preference name="OSXLocalStorageQuota" value="50" />
+        <preference name="WindowSize" value="800x600" />
+        <preference name="EnableViewportScale" value="true" />
+        
+        <!-- macOS Icons -->
+        <icon src="resources/icons/osx/icon_16x16.png" width="16" height="16" />
+        <icon src="resources/icons/osx/icon_32x32.png" width="32" height="32" />
+        <icon src="resources/icons/osx/icon_64x64.png" width="64" height="64" />
+        <icon src="resources/icons/osx/icon_128x128.png" width="128" height="128" />
+        <icon src="resources/icons/osx/icon_256x256.png" width="256" height="256" />
+        <icon src="resources/icons/osx/icon_512x512.png" width="512" height="512" />
+        <icon src="resources/icons/osx/icon_1024x1024.png" width="1024" height="1024" />
+    </platform>
+</widget>

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/OutlineNotification-master.dia",
+    "emit-module-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/OutlineNotification-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/OutlineNotification-master-emit-module.dia",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/OutlineNotification-master.swiftdeps"
+  },
+  "/Users/obedsayyad/teachgate-macos-app/OutlineAppleLib/Sources/OutlineNotification/NSNotification+Outline.swift" : {
+    "const-values" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/NSNotification+Outline.swiftconstvalues",
+    "dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/NSNotification+Outline.d",
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/NSNotification+Outline.dia",
+    "index-unit-output-path" : "/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/NSNotification+Outline.o",
+    "llvm-bc" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/NSNotification+Outline.bc",
+    "object" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/NSNotification+Outline.o",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/NSNotification+Outline.swiftdeps",
+    "swiftmodule" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineNotification.build/Objects-normal/arm64/NSNotification+Outline~partial.swiftmodule"
+  }
+}

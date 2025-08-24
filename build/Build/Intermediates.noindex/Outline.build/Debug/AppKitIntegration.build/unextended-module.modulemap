@@ -1,0 +1,10 @@
+framework module AppKitIntegration {
+  umbrella header "AppKitIntegration.h"
+  export *
+
+  module * { export * }
+}
+
+module AppKitIntegration.__Swift {
+  exclude header "AppKitIntegration-Swift.h"
+}

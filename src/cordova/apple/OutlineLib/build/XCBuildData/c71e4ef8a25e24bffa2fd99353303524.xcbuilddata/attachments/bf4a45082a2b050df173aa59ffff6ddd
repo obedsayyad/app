@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/VpnExtension-master.dia",
+    "emit-module-dependencies" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/VpnExtension-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/VpnExtension-master-emit-module.dia",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/VpnExtension-master.swiftdeps"
+  },
+  "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/VpnExtension/Sources/PacketTunnelProvider.swift" : {
+    "const-values" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/PacketTunnelProvider-5eb32835962331ee35eb7ac5e7ce8fef.swiftconstvalues",
+    "dependencies" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/PacketTunnelProvider-5eb32835962331ee35eb7ac5e7ce8fef.d",
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/PacketTunnelProvider-5eb32835962331ee35eb7ac5e7ce8fef.dia",
+    "index-unit-output-path" : "/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/PacketTunnelProvider-5eb32835962331ee35eb7ac5e7ce8fef.o",
+    "llvm-bc" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/PacketTunnelProvider-5eb32835962331ee35eb7ac5e7ce8fef.bc",
+    "object" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/PacketTunnelProvider-5eb32835962331ee35eb7ac5e7ce8fef.o",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/PacketTunnelProvider-5eb32835962331ee35eb7ac5e7ce8fef.swiftdeps",
+    "swiftmodule" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineLib/build/OutlineLib.build/Debug/VpnExtension.build/Objects-normal/x86_64/PacketTunnelProvider-5eb32835962331ee35eb7ac5e7ce8fef~partial.swiftmodule"
+  }
+}

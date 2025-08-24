@@ -1,0 +1,4 @@
+module OutlineNotification {
+header "OutlineNotification-Swift.h"
+export *
+}

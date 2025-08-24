@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError-master.dia",
+    "emit-module-dependencies" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError-master-emit-module.dia",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError-master.swiftdeps"
+  },
+  "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/Sources/OutlineError/OutlineError.swift" : {
+    "const-values" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError.swiftconstvalues",
+    "dependencies" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError.d",
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError.dia",
+    "index-unit-output-path" : "/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError.o",
+    "llvm-bc" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError.bc",
+    "object" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError.o",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError.swiftdeps",
+    "swiftmodule" : "/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/OutlineAppleLib/build/OutlineAppleLib.build/Debug/OutlineError.build/Objects-normal/x86_64/OutlineError~partial.swiftmodule"
+  }
+}

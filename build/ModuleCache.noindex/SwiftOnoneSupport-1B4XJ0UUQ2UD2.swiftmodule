@@ -1,0 +1,16 @@
+---
+path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/15.5/SwiftOnoneSupport.swiftmodule/arm64e-apple-ios-macabi.swiftmodule'
+dependencies:
+  - mtime:           1746401310000000000
+    path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/15.5/SwiftOnoneSupport.swiftmodule/arm64e-apple-ios-macabi.swiftmodule'
+    size:            17276
+  - mtime:           1745034241000000000
+    path:            'System/iOSSupport/usr/lib/swift/Swift.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            1929979
+    sdk_relative:    true
+  - mtime:           1745034409000000000
+    path:            'System/iOSSupport/usr/lib/swift/SwiftOnoneSupport.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            1013
+    sdk_relative:    true
+version:         1
+...

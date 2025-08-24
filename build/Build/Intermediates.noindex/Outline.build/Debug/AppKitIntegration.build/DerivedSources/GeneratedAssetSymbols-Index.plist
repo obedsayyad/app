@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/xcode/Outline/Classes/AppKitBridge/Resources/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameStatusBarButtonImage</string>
+			<key>relativePath</key>
+			<string>./status_bar_button_image.imageset</string>
+			<key>swiftSymbol</key>
+			<string>statusBarButton</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/obedsayyad/teachgate-macos-app/src/cordova/apple/xcode/Outline/Classes/AppKitBridge/Resources/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameStatusBarButtonImageConnected</string>
+			<key>relativePath</key>
+			<string>./status_bar_button_image_connected.imageset</string>
+			<key>swiftSymbol</key>
+			<string>statusBarButtonImageConnected</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

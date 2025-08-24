@@ -1,0 +1,4 @@
+module CocoaLumberjackSwiftSupport {
+umbrella "/Users/obedsayyad/teachgate-macos-app/build/SourcePackages/checkouts/CocoaLumberjack/Sources/CocoaLumberjackSwiftSupport/include"
+export *
+}

@@ -1,0 +1,26 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/SDKSettings.json \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/DarwinFoundation-QRHCE9DU3ENJSU85QP895POO.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/os_object-5551KLADB31ZPOO9280ZS0A9I.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/TargetConditionals-56X93JOGGUBPFLRVTIOOCDRJR.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_stdlib-LML0GCYRJR9G82JLG9X4G22S.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdbool-8W1DVJE01LNZPDSIUZOIBKKJ6.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdint-9F1F8V9OJO4QL32JZ2ZHNSS10.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/sys_types-DNKFSS6TBYI0IOYKQH25Y209I.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/Darwin-62XM76FWT02O34Z85RFX8PIMV.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/Dispatch-8J755YPZGYYC1VMPIXWEIM6G4.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/CoreFoundation-AY6NWEDH41POYP4AUOPO1NSNN.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/Security-7X4S1YBZ3NFV9O47LIA7R4RGE.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/Foundation-C98FN62XJV1GE0KXDA43KSX1X.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/Darwin.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/DarwinFoundation.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/os.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/TargetConditionals.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/c_standard_library.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/DarwinBasic.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/dispatch.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/Security.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/dnssd.modulemap

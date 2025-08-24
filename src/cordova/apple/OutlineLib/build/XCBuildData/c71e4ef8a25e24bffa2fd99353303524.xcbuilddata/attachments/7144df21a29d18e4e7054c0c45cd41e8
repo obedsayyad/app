@@ -1,0 +1,2 @@
+#!/bin/sh
+set -euo pipefail\nAPP_EXT=\"${TARGET_BUILD_DIR}/${WRAPPER_NAME}\"\nFW_DIR=\"$APP_EXT/Contents/Frameworks\"\nif [ -d \"$FW_DIR\" ]; then\n  for fw in NetworkExtension SystemConfiguration Security Foundation; do\n    if [ -e \"$FW_DIR/$fw.framework\" ]; then\n      echo \"Removing embedded system framework: $fw.framework\"\n      rm -rf \"$FW_DIR/$fw.framework\"\n    fi\n  done\nfi\n

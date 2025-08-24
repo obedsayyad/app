@@ -1,0 +1,35 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/SDKSettings.json \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c_standard_library.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdlib.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/os_availability.modulemap \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/os_availability_internal-2S65KSBB0MLFKOQDRLCZJ4S7E.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/os_availability-EFCKRJ3M1OAL6PLIXN07A3YDH.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/DarwinFoundation.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/ptrcheck-665BE8KF2CDMIBPEQXR6TTTY7.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stddef-9URC4QGSPJVSOCRN99HGWVWCF.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdarg-3Y9TFL1P5TNR5AVBUA4QADJWR.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/DarwinFoundation-QRHCE9DU3ENJSU85QP895POO.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/DarwinBasic.modulemap \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/netinet_in-3O6BY46SMSFSB7VJNZ8BGG3IV.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_useconds_t-9SPSN0QF9HQAT3ZTRE4HQLGCQ.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_errno-F1HRA700XBN9J4CJVQQTUO0XW.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_sys_select-ND5GSA3XXA13DHW8KDFOA4D0.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/sys_types-DNKFSS6TBYI0IOYKQH25Y209I.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/mach-5D4YRAYLRK8KS8ARWAE8DKFXB.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_signal-97FRVD1NHFDYXIKK4F55H4QKQ.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_stdint-76XZ22ALKUXDV9JDN0X1ASV8M.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/_Builtin_stdint-9F1F8V9OJO4QL32JZ2ZHNSS10.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/sys_time-E2W0IFC2JU8HRLPWGT58T2Q4H.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/sys_resource-9W039CKCUD5QBGVAISQAL7Q3L.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/sys_wait-ATXPKBJ96MLVA3ZGAAL72LB1K.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/alloca-DV78KY748LTTCGVSO8L4FQO2.pcm \
+  /Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/ExplicitPrecompiledModules/runetype-BOUG8M2NF75N3RF9MNL38WMTG.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/malloc/_malloc.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_size_t.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/malloc/_malloc_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/malloc/_ptrcheck.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/ptrcheck.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/include/_abort.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_stdlib.h

@@ -1,0 +1,4 @@
+module CocoaLumberjack {
+umbrella "/Users/obedsayyad/Library/Developer/Xcode/DerivedData/OutlineLib-ftuefznttqffmnbwuuvfbjrrjkbm/SourcePackages/checkouts/CocoaLumberjack/Sources/CocoaLumberjack/include"
+export *
+}

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/VpnExtension-master.dia",
+    "emit-module-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/VpnExtension-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/VpnExtension-master-emit-module.dia",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/VpnExtension-master.swiftdeps"
+  },
+  "/Users/obedsayyad/teachgate-macos-app/OutlineLib/VpnExtension/Sources/PacketTunnelProvider.swift" : {
+    "const-values" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/PacketTunnelProvider-4948a6640dd4c5015aaa59e2897b6790.swiftconstvalues",
+    "dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/PacketTunnelProvider-4948a6640dd4c5015aaa59e2897b6790.d",
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/PacketTunnelProvider-4948a6640dd4c5015aaa59e2897b6790.dia",
+    "index-unit-output-path" : "/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/PacketTunnelProvider-4948a6640dd4c5015aaa59e2897b6790.o",
+    "llvm-bc" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/PacketTunnelProvider-4948a6640dd4c5015aaa59e2897b6790.bc",
+    "object" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/PacketTunnelProvider-4948a6640dd4c5015aaa59e2897b6790.o",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/PacketTunnelProvider-4948a6640dd4c5015aaa59e2897b6790.swiftdeps",
+    "swiftmodule" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineLib.build/Debug-maccatalyst/VpnExtension.build/Objects-normal/arm64/PacketTunnelProvider-4948a6640dd4c5015aaa59e2897b6790~partial.swiftmodule"
+  }
+}

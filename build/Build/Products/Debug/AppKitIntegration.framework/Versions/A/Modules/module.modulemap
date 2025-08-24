@@ -1,0 +1,11 @@
+framework module AppKitIntegration {
+  umbrella header "AppKitIntegration.h"
+  export *
+
+  module * { export * }
+}
+
+module AppKitIntegration.Swift {
+  header "AppKitIntegration-Swift.h"
+  requires objc
+}

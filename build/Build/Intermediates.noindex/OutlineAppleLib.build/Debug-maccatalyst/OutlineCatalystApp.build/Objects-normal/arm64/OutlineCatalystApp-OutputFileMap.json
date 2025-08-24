@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/OutlineCatalystApp-master.dia",
+    "emit-module-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/OutlineCatalystApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/OutlineCatalystApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/OutlineCatalystApp-master.swiftdeps"
+  },
+  "/Users/obedsayyad/teachgate-macos-app/OutlineAppleLib/Sources/OutlineCatalystApp/CatalystApp.swift" : {
+    "const-values" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/CatalystApp.swiftconstvalues",
+    "dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/CatalystApp.d",
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/CatalystApp.dia",
+    "index-unit-output-path" : "/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/CatalystApp.o",
+    "llvm-bc" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/CatalystApp.bc",
+    "object" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/CatalystApp.o",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/CatalystApp.swiftdeps",
+    "swiftmodule" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/CatalystApp~partial.swiftmodule"
+  },
+  "/Users/obedsayyad/teachgate-macos-app/OutlineAppleLib/Sources/OutlineCatalystApp/NSObject+Outline.swift" : {
+    "const-values" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/NSObject+Outline.swiftconstvalues",
+    "dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/NSObject+Outline.d",
+    "diagnostics" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/NSObject+Outline.dia",
+    "index-unit-output-path" : "/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/NSObject+Outline.o",
+    "llvm-bc" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/NSObject+Outline.bc",
+    "object" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/NSObject+Outline.o",
+    "swift-dependencies" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/NSObject+Outline.swiftdeps",
+    "swiftmodule" : "/Users/obedsayyad/teachgate-macos-app/build/Build/Intermediates.noindex/OutlineAppleLib.build/Debug-maccatalyst/OutlineCatalystApp.build/Objects-normal/arm64/NSObject+Outline~partial.swiftmodule"
+  }
+}

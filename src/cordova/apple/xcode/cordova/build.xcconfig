@@ -1,0 +1,3 @@
+// Outline Cordova base config (vendor)
+GCC_TREAT_WARNINGS_AS_ERRORS = NO
+SWIFT_VERSION = 5.0

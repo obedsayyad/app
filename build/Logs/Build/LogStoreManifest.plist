@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>2A5D40CC-123F-4143-8940-3EBB0D3156A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A5D40CC-123F-4143-8940-3EBB0D3156A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Outline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TeachGate VPN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project Outline with scheme TeachGate VPN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>777756376.91581798</real>
+			<key>timeStoppedRecording</key>
+			<real>777756378.23302698</real>
+			<key>title</key>
+			<string>Cleaning project Outline with scheme TeachGate VPN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2A5D40CC-123F-4143-8940-3EBB0D3156A5</string>
+		</dict>
+		<key>3B01608B-33FC-473A-8C2D-80A41D4FFC43</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B01608B-33FC-473A-8C2D-80A41D4FFC43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>2</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Outline project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TeachGate VPN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Outline with scheme TeachGate VPN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>777756299.05610597</real>
+			<key>timeStoppedRecording</key>
+			<real>777756329.15017796</real>
+			<key>title</key>
+			<string>Building project Outline with scheme TeachGate VPN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3B01608B-33FC-473A-8C2D-80A41D4FFC43</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

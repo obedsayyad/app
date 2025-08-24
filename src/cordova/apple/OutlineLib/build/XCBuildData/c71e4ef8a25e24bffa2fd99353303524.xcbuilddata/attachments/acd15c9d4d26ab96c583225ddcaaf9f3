@@ -1,0 +1,4 @@
+module OutlineError {
+header "OutlineError-Swift.h"
+export *
+}
