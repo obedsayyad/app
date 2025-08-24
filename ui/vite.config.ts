@@ -3,6 +3,7 @@
 // can load /www/index.html and resolve ./assets/... correctly.
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
+/* legacy plugin removed */
 import { resolve } from "path";
 
 // https://vite.dev/config/

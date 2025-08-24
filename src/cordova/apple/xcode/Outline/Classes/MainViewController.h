@@ -1,5 +1,5 @@
-// Minimal MainViewController for Mac Catalyst/Cordova host
-#import <UIKit/UIKit.h>
+// Cordova WebView host controller
+#import <Cordova/CDVViewController.h>
 
-@interface MainViewController : UIViewController
+@interface MainViewController : CDVViewController
 @end

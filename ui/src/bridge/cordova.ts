@@ -102,7 +102,17 @@ function isCordovaEnv(): boolean {
 
 function isDev(): boolean {
   // Set by Vite define in vite.config.ts
-  return !!(window as any).__DEV__ || process.env.NODE_ENV === "development";
+  // Avoid using process.env in browser (undefined in WKWebView)
+  try {
+    // Prefer global injected flag
+    if ((window as any).__DEV__) return true;
+    // Fallback to Vite's import.meta.env when available
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const mode = (import.meta as any)?.env?.MODE;
+    return mode === "development";
+  } catch {
+    return false;
+  }
 }
 
 function execCordova<T = any>(action: string, ...args: any[]): Promise<T> {
